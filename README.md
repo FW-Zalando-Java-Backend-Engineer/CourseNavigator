@@ -28,7 +28,7 @@ Click on the links to access the corresponding day's repository.
 ### 📖 Week 1  
 | Day | Date | Topic | Repository |  
 |----|----|----------------------------------------------|--------------------------|  
-| 1 | 17 Mar | Welcome Day & Course Introduction | [Day-01](https://github.com/your-github-username/Day-01_Welcome) |  
+| 1 | 17 Mar | Welcome Day & Course Introduction | [Day-01](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-01_Welcome) |  
 | 2 | 18 Mar | Introduction to Numeral Systems | [Day-02](https://github.com/your-github-username/Day-02_Numeral_Systems) |  
 | 3 | 19 Mar | Programming Basics: Variables, Operators, Functions | [Day-03](https://github.com/your-github-username/Day-03_Programming_Basics) |  
 | 4 | 20 Mar | Math Operations | [Day-04](https://github.com/your-github-username/Day-04_Math_Operations) |  
