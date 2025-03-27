@@ -42,7 +42,7 @@ Click on the links to access the corresponding day's repository.
 | 6 | 24 Mar | Logical/Boolean Operations, Ternary Operator | [Day-06](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-06_Boolean_Operations) |  
 | 7 | 25 Mar | If-Else Statements | [Day-07](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-07_If_Else) |  
 | 8 | 26 Mar | Switch Statement | [Day-08](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-08_Switch) |  
-| 9 | 27 Mar | Loops (While & Do-While) | [Day-09](https://github.com/your-github-username/Day-09_Loops) |  
+| 9 | 27 Mar | Loops (While & Do-While) | [Day-09](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-09_Loops) |  
 | 10 | 28 Mar | Java Classes, Objects, and Methods | [Day-10](https://github.com/your-github-username/Day-10_Java_Objects) |  
 
 ---
