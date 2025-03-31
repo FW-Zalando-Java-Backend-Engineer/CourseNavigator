@@ -43,14 +43,14 @@ Click on the links to access the corresponding day's repository.
 | 7 | 25 Mar | If-Else Statements | [Day-07](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-07_If_Else) |  
 | 8 | 26 Mar | Switch Statement | [Day-08](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-08_Switch) |  
 | 9 | 27 Mar | Loops (While & Do-While) | [Day-09](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-09_Loops) |  
-| 10 | 28 Mar | Java Classes, Objects, and Methods | [Day-10](https://github.com/your-github-username/Day-10_Java_Objects) |  
+| 10 | 28 Mar | Loops (For Loops) | [Day-10](https://github.com/your-github-username/Day-10_Java_Objects) |  
 
 ---
 
 ### 📖 Week 3  
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
-| 11 | 31 Mar | Visibility Modifiers & Casting | [Day-11](https://github.com/your-github-username/Day-11_Visibility_Modifiers) |  
+| 11 | 31 Mar | Java Classes, Objects, Modifiers & Type Casting | [Day-11](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-11_Visibility_Modifiers) |  
 | 12 | 1 Apr | Static & Instance Variables | [Day-12](https://github.com/your-github-username/Day-12_Static_Instance_Variables) |  
 | 13 | 2 Apr | Encapsulation by Example | [Day-13](https://github.com/your-github-username/Day-13_Encapsulation) |  
 | 14 | 3 Apr | Java Collections: ArrayList & LinkedList | [Day-14](https://github.com/your-github-username/Day-14_Collections) |  
