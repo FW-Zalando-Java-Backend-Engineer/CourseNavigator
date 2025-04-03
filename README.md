@@ -51,8 +51,8 @@ Click on the links to access the corresponding day's repository.
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
 | 11 | 31 Mar | Java Classes, Objects, Modifiers & Type Casting | [Day-11](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-11_Visibility_Modifiers) |  
-| 12 | 1 Apr | Static & Instance Variables | [Day-12](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-12_Static_Instance_Variables) |  
-| 13 | 2 Apr | Encapsulation by Example | [Day-13](https://github.com/your-github-username/Day-13_Encapsulation) |  
+| 12 | 1 Apr | Static and Instance Variables | [Day-12](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-12_Static_Instance_Variables) |  
+| 13 | 2 Apr | Soft Skills | [Day-13](https://github.com/your-github-username/Day-13_Encapsulation) |  
 | 14 | 3 Apr | Java Collections: ArrayList & LinkedList | [Day-14](https://github.com/your-github-username/Day-14_Collections) |  
 | 15 | 4 Apr | DevOps Basics: Operating Systems | [Day-15](https://github.com/your-github-username/Day-15_DevOps_Basics) |  
 
@@ -73,8 +73,8 @@ Click on the links to access the corresponding day's repository.
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
 | 21 | 14 Apr | Java OOP: Constructors & Static Methods | [Day-21](https://github.com/your-github-username/Day-21_Constructors_Static) |  
-| 22 | 15 Apr | Working with Arrays in Java | [Day-22](https://github.com/your-github-username/Day-22_Arrays) |  
-| 23 | 16 Apr | Sorted Collections & Binary Search | [Day-23](https://github.com/your-github-username/Day-23_Sorted_Collections) |  
+| 22 | 15 Apr | Arrays & Binary Search in Java | [Day-22](https://github.com/your-github-username/Day-22_Arrays) |  
+| 23 | 16 Apr | Soft Skills | [Day-23](https://github.com/your-github-username/Day-23_Sorted_Collections) |  
 | 24 | 17 Apr | Inheritance, Abstract Classes, Polymorphism | [Day-24](https://github.com/your-github-username/Day-24_Inheritance) |  
 | 25 | 22 Apr | Generics & Exception Handling | [Day-25](https://github.com/your-github-username/Day-25_Generics_Exceptions) |  
 
@@ -94,11 +94,11 @@ Click on the links to access the corresponding day's repository.
 ### 📖 Week 7  
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
-| 31 | 30 Apr | Understanding Reference Types | [Day-31](https://github.com/your-github-username/Day-31_Reference_Types) |  
+| 31 | 30 Apr | Soft Skills | [Day-31](https://github.com/your-github-username/Day-31_Reference_Types) |  
 | 32 | 2 May | Lists Implementations: ArrayList & LinkedList | [Day-32](https://github.com/your-github-username/Day-32_Lists_Implementation) |  
 | 33 | 5 May | Data Structures: Queue & Stack | [Day-33](https://github.com/your-github-username/Day-33_Queue_Stack) |  
 | 34 | 6 May | Java List and Deque Implementations | [Day-34](https://github.com/your-github-username/Day-34_List_Deque) |  
-| 35 | 7 May | Understanding OOP: Custom Data Structure Implementation | [Day-35](https://github.com/your-github-username/Day-35_Custom_Data_Structure) |  
+| 35 | 7 May | Soft Skills | [Day-35](https://github.com/your-github-username/Day-35_Custom_Data_Structure) |  
 
 ---
 
@@ -108,7 +108,7 @@ Click on the links to access the corresponding day's repository.
 | 36 | 9 May | Data Structure: Map & HashMap Implementation | [Day-36](https://github.com/your-github-username/Day-36_Map_HashMap) |  
 | 37 | 12 May | Graphs, Trees, Binary Trees, TreeMap | [Day-37](https://github.com/your-github-username/Day-37_Graphs_Trees) |  
 | 38 | 13 May | Data Structure: Set & HashSet | [Day-38](https://github.com/your-github-username/Day-38_Set_HashSet) |  
-| 39 | 14 May | Java Set Implementation & Exercises | [Day-39](https://github.com/your-github-username/Day-39_Set_Exercises) |  
+| 39 | 14 May | Soft Skills | [Day-39](https://github.com/your-github-username/Day-39_Set_Exercises) |  
 | 40 | 15 May | Java String Class: Methods, Immutability, and Performance | [Day-40](https://github.com/your-github-username/Day-40_String_Class) |  
 
 ---
@@ -118,8 +118,8 @@ Click on the links to access the corresponding day's repository.
 |----|----|---------------------------------------------|--------------------------|  
 | 41 | 16 May | Java String Methods, StringBuilder & StringBuffer | [Day-41](https://github.com/your-github-username/Day-41_String_Methods) |  
 | 42 | 26 May | Introduction to Input and Output in Java | [Day-42](https://github.com/your-github-username/Day-42_Java_IO) |  
-| 43 | 27 May | Reading/Writing Streams of Bytes | [Day-43](https://github.com/your-github-username/Day-43_Byte_Streams) |  
-| 44 | 28 May | Reading/Writing Streams of Strings | [Day-44](https://github.com/your-github-username/Day-44_String_Streams) |  
+| 43 | 27 May | Reading/Writing Streams of Bytes, Strings | [Day-43](https://github.com/your-github-username/Day-43_Byte_Streams) |  
+| 44 | 28 May | Soft Skills | [Day-44](https://github.com/your-github-username/Day-44_String_Streams) |  
 | 45 | 30 May | Reflections and Annotations in Java | [Day-45](https://github.com/your-github-username/Day-45_Reflections_Annotations) |  
 
 ---
@@ -129,7 +129,7 @@ Click on the links to access the corresponding day's repository.
 |----|----|---------------------------------------------|--------------------------|  
 | 46 | 2 Jun | Enums in Java, LocalDate, LocalDateTime, ZonedDateTime | [Day-46](https://github.com/your-github-username/Day-46_Enums_LocalDate) |  
 | 47 | 3 Jun | Mini-Project 1 | [Day-47](https://github.com/your-github-username/Day-47_Mini_Project_1) |  
-| 48 | 4 Jun | Threads, Runnable, Daemon Threads, Interrupted Exception | [Day-48](https://github.com/your-github-username/Day-48_Threads_Runnable) |  
+| 48 | 4 Jun | Soft Skills | [Day-48](https://github.com/your-github-username/Day-48_Threads_Runnable) |  
 | 49 | 5 Jun | Synchronization: Mutex, Monitor, Atomic Types | [Day-49](https://github.com/your-github-username/Day-49_Synchronization) |  
 | 50 | 6 Jun | Java Util Concurrent & Concurrent Collections | [Day-50](https://github.com/your-github-username/Day-50_Concurrent_Collections) |  
 
@@ -139,7 +139,7 @@ Click on the links to access the corresponding day's repository.
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
 | 51 | 10 Jun | Mini-Project 2 | [Day-51](https://github.com/your-github-username/Day-51_Mini_Project_2) |  
-| 52 | 11 Jun | Threads Executors | [Day-52](https://github.com/your-github-username/Day-52_Threads_Executors) |  
+| 52 | 11 Jun | Soft Skills | [Day-52](https://github.com/your-github-username/Day-52_Threads_Executors) |  
 | 53 | 12 Jun | Lambdas, Functional Interfaces, Method References | [Day-53](https://github.com/your-github-username/Day-53_Lambdas_Functional_Interfaces) |  
 | 54 | 13 Jun | Stream API: Intermediate & Terminal Operations | [Day-54](https://github.com/your-github-username/Day-54_Stream_API) |  
 | 55 | 16 Jun | Java Streams: FlatMap, Collectors & Custom Collectors | [Day-55](https://github.com/your-github-username/Day-55_FlatMap_Collectors) |  
@@ -150,7 +150,7 @@ Click on the links to access the corresponding day's repository.
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
 | 56 | 17 Jun | Java Streams: Collectors and Custom Collectors | [Day-56](https://github.com/your-github-username/Day-56_Collectors) |  
-| 57 | 18 Jun | Spring Framework: Introduction, Context, and Beans | [Day-57](https://github.com/your-github-username/Day-57_Spring_Context_Beans) |  
+| 57 | 18 Jun |  Soft Skills | [Day-57](https://github.com/your-github-username/Day-57_Spring_Context_Beans) |  
 | 58 | 19 Jun | Spring Boot: Onion (Hexagonal) Architecture | [Day-58](https://github.com/your-github-username/Day-58_Hexagonal_Architecture) |  
 | 59 | 20 Jun | Spring Boot: JPA, Databases & Validation | [Day-59](https://github.com/your-github-username/Day-59_JPA_Validation) |  
 | 60 | 23 Jun | Spring Boot: Logging & AOP Basics | [Day-60](https://github.com/your-github-username/Day-60_Logging_AOP) |  
@@ -161,7 +161,7 @@ Click on the links to access the corresponding day's repository.
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
 | 61 | 24 Jun | Spring Boot: Scheduled Jobs | [Day-61](https://github.com/your-github-username/Day-61_Scheduled_Jobs) |  
-| 62 | 25 Jun | Introduction to Relational Databases: Schema, Tables, Queries | [Day-62](https://github.com/your-github-username/Day-62_Relational_Databases) |  
+| 62 | 25 Jun |  Soft Skills | [Day-62](https://github.com/your-github-username/Day-62_Relational_Databases) |  
 | 63 | 26 Jun | Creating Databases and Tables in MySQL, Inserting Data | [Day-63](https://github.com/your-github-username/Day-63_MySQL_Tables) |  
 | 64 | 27 Jun | Advanced SQL Queries & Indexing | [Day-64](https://github.com/your-github-username/Day-64_SQL_Queries_Indexing) |  
 | 65 | 30 Jun | Selecting Data from Relational Databases: SELECT Queries | [Day-65](https://github.com/your-github-username/Day-65_Select_Queries) |  
