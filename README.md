@@ -53,8 +53,8 @@ Click on the links to access the corresponding day's repository.
 | 11 | 31 Mar | Java Classes, Objects, Modifiers & Type Casting | [Day-11](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-11_Visibility_Modifiers) |  
 | 12 | 1 Apr | Static and Instance Variables | [Day-12](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-12_Static_Instance_Variables) |  
 | 13 | 2 Apr | Soft Skills | [Day-13](_No Repo Provided_) |  
-| 14 | 3 Apr | Java Collections: ArrayList & LinkedList | [Day-14](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-14_Collections) |  
-| 15 | 4 Apr | DevOps Basics: Operating Systems | [Day-15](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-15_DevOps_Basics) |  
+| 14 | 3 Apr | Java Collections: ArrayList | [Day-14](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-14_Collections) |  
+| 15 | 4 Apr | Java Collections: LinkedList | [Day-15](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-15_DevOps_Basics) |  
 
 ---
 
