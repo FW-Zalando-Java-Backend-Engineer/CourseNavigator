@@ -62,7 +62,7 @@ Click on the links to access the corresponding day's repository.
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
 | 16 | 7 Apr |  Java Collections: LinkedList | [Day-16](https://github.com/FW-Zalando-Java-Backend-Engineer/Day_16_Java_LinkedList) |  
-| 17 | 8 Apr | GitHub: Issues & Repository Management | [Day-17](https://github.com/your-github-username/Day-17_GitHub_Issues) |  
+| 17 | 8 Apr | DevOps Basics – Operating Systems, Git & GitHub | [Day-17](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-17-DevOps-Basics-Operating-Systems-Git-GitHub) |  
 | 18 | 9 Apr | Managing Exercises Using GitHub | [Day-18](https://github.com/your-github-username/Day-18_GitHub_Exercises) |  
 | 19 | 10 Apr | DevOps: GitHub Workflows | [Day-19](https://github.com/your-github-username/Day-19_GitHub_Workflows) |  
 | 20 | 11 Apr | Java OOP: Classes & Encapsulation | [Day-20](https://github.com/your-github-username/Day-20_Java_OOP) |  
