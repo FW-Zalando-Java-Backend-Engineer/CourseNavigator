@@ -64,18 +64,18 @@ Click on the links to access the corresponding day's repository.
 | 16 | 7 Apr |  Java Collections: LinkedList | [Day-16](https://github.com/FW-Zalando-Java-Backend-Engineer/Day_16_Java_LinkedList) |  
 | 17 | 8 Apr | DevOps Basics – Operating Systems, Git & GitHub | [Day-17](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-17-DevOps-Basics-Operating-Systems-Git-GitHub) |  
 | 18 | 9 Apr | Managing Exercises Using GitHub | [Day-18](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-18_GitHub_Exercises) |  
-| 19 | 10 Apr | DevOps: GitHub Workflows | [Day-19](https://github.com/your-github-username/Day-19_GitHub_Workflows) |  
-| 20 | 11 Apr | Java OOP: Classes & Encapsulation | [Day-20](https://github.com/your-github-username/Day-20_Java_OOP) |  
+| 19 | 10 Apr | DevOps: GitHub Workflows | [Day-19](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-19-DevOps-Basics-Understanding-GitHub-Git-Workflow) |  
+| 20 | 11 Apr | DevOps: Version Control Practices | [Day-20](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-20_VSC_Practices) |  
 
 ---
 
 ### 📖 Week 5  
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
-| 21 | 14 Apr | Java OOP: Constructors & Static Methods | [Day-21](https://github.com/your-github-username/Day-21_Constructors_Static) |  
-| 22 | 15 Apr | Arrays & Binary Search in Java | [Day-22](https://github.com/your-github-username/Day-22_Arrays) |  
+| 21 | 14 Apr | Java OOP: Constructors & Static Methods | [Day-21](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-21_Constructors_Static) |  
+| 22 | 15 Apr | Arrays & Binary Search in Java | [Day-22](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-22_Binary_Search) |  
 | 23 | 16 Apr | Soft Skills | [Day-23](_No Repo Provided_) |  
-| 24 | 17 Apr | Inheritance, Abstract Classes, Polymorphism | [Day-24](https://github.com/your-github-username/Day-24_Inheritance) |  
+| 24 | 17 Apr | Inheritance, Abstract Classes, Polymorphism | [Day-24](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-24_OOP_Advanced) |  
 | 25 | 22 Apr | Generics & Exception Handling | [Day-25](https://github.com/your-github-username/Day-25_Generics_Exceptions) |  
 
 ---
