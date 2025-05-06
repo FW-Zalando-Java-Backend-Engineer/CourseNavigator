@@ -98,7 +98,7 @@ Click on the links to access the corresponding day's repository.
 | 32 | 2 May | Lists Implementations: ArrayList & LinkedList | [Day-32](https://github.com/your-github-username/Day-32_Lists_Implementation) |  
 | 33 | 5 May | Data Structures: Queue & Stack | [Day-33](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-33_Queue_Stack) |  
 | 34 | 6 May | Soft Skills |  [_No Repo Provided_) |  
-| 35 | 7 May | Java List and Deque Implementations | [Day-34](https://github.com/your-github-username/Day-34_List_Deque)|  
+| 35 | 7 May | Java Graphs | [Day-34](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-37_Java_Graphs)|  
 
 ---
 
