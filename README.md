@@ -105,9 +105,9 @@ Click on the links to access the corresponding day's repository.
 ### 📖 Week 8  
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
-| 36 | 9 May | Data Structure: Map & HashMap Implementation | [Day-36](https://github.com/your-github-username/Day-36_Map_HashMap) |  
-| 37 | 12 May | Graphs, Trees, Binary Trees, TreeMap | [Day-37](https://github.com/your-github-username/Day-37_Graphs_Trees) |  
-| 38 | 13 May | Data Structure: Set & HashSet | [Day-38](https://github.com/your-github-username/Day-38_Set_HashSet) |  
+| 36 | 9 May | Trees, Binary Trees, TreeMap | [Day-36](https://github.com/your-github-username/Day-36_Map_HashMap) |  
+| 37 | 12 May | Java String Methods, StringBuilder & StringBuffer | [Day-37](https://github.com/your-github-username/Day-37) |  
+| 38 | 13 May | Introduction to Input and Output in Java | [Day-38](https://github.com/your-github-username/Day-38_Set_HashSet) |  
 | 39 | 14 May | Soft Skills | [Day-39](_No Repo Provided_) |  
 | 40 | 15 May | Java String Class: Methods, Immutability, and Performance | [Day-40](https://github.com/your-github-username/Day-40_String_Class) |  
 
