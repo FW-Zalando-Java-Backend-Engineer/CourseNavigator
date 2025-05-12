@@ -106,8 +106,8 @@ Click on the links to access the corresponding day's repository.
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
 | 36 | 9 May | Trees, Binary Trees, TreeMap | [Day-36](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-36_Trees_BinaryTrees_TreeMap) |  
-| 37 | 12 May | Java String Methods, StringBuilder & StringBuffer | [Day-37](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-37_String-Methods) |  
-| 38 | 13 May | Introduction to Input and Output in Java | [Day-38](https://github.com/your-github-username/Day-38_Set_HashSet) |  
+| 37 | 12 May | Java String Methods | [Day-37](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-37_String-Methods) |  
+| 38 | 13 May | StringBuilder & StringBuffer | [Day-38](https://github.com/your-github-username/Day-38_Set_HashSet) |  
 | 39 | 14 May | Soft Skills | [Day-39](_No Repo Provided_) |  
 | 40 | 15 May | Java String Class: Methods, Immutability, and Performance | [Day-40](https://github.com/your-github-username/Day-40_String_Class) |  
 
@@ -116,18 +116,18 @@ Click on the links to access the corresponding day's repository.
 ### 📖 Week 9  
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
-| 41 | 16 May | Java String Methods, StringBuilder & StringBuffer | [Day-41](https://github.com/your-github-username/Day-41_String_Methods) |  
-| 42 | 26 May | Introduction to Input and Output in Java | [Day-42](https://github.com/your-github-username/Day-42_Java_IO) |  
-| 43 | 27 May | Reading/Writing Streams of Bytes, Strings | [Day-43](https://github.com/your-github-username/Day-43_Byte_Streams) |  
+| 41 | 16 May | Introduction to Input and Output in Java | [Day-41](https://github.com/your-github-username/Day-41_String_Methods) |  
+| 42 | 26 May | Reading/Writing Streams of Bytes, Strings | [Day-42](https://github.com/your-github-username/Day-42_Java_IO) |  
+| 43 | 27 May | Reflections and Annotations in Java | [Day-43](https://github.com/your-github-username/Day-43_Byte_Streams) |  
 | 44 | 28 May | Soft Skills | [Day-44](_No Repo Provided_) |  
-| 45 | 30 May | Reflections and Annotations in Java | [Day-45](https://github.com/your-github-username/Day-45_Reflections_Annotations) |  
+| 45 | 30 May | Enums in Java, LocalDate, LocalDateTime, ZonedDateTime | [Day-45](https://github.com/your-github-username/Day-45_Reflections_Annotations) |  
 
 ---
 
 ### 📖 Week 10  
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
-| 46 | 2 Jun | Enums in Java, LocalDate, LocalDateTime, ZonedDateTime | [Day-46](https://github.com/your-github-username/Day-46_Enums_LocalDate) |  
+| 46 | 2 Jun | Mini-Project 1 | [Day-46](https://github.com/your-github-username/Day-46_Enums_LocalDate) |  
 | 47 | 3 Jun | Mini-Project 1 | [Day-47](https://github.com/your-github-username/Day-47_Mini_Project_1) |  
 | 48 | 4 Jun | Soft Skills | [Day-48](_No Repo Provided_) |  
 | 49 | 5 Jun | Synchronization: Mutex, Monitor, Atomic Types | [Day-49](https://github.com/your-github-username/Day-49_Synchronization) |  
