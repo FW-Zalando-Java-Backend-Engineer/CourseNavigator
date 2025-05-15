@@ -116,7 +116,7 @@ Click on the links to access the corresponding day's repository.
 ### 📖 Week 9  
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
-| 41 | 16 May | Introduction to Input and Output in Java | [Day-41](https://github.com/your-github-username/Day-41_String_Methods) |  
+| 41 | 16 May | Java Threads - Advanced usage | [Day-41](https://github.com/your-github-username/Day-41_String_Methods) |  
 | 42 | 26 May | Reading/Writing Streams of Bytes, Strings | [Day-42](https://github.com/your-github-username/Day-42_Java_IO) |  
 | 43 | 27 May | Reflections and Annotations in Java | [Day-43](https://github.com/your-github-username/Day-43_Byte_Streams) |  
 | 44 | 28 May | Soft Skills | [Day-44](_No Repo Provided_) |  
