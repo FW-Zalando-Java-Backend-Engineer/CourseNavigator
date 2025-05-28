@@ -118,7 +118,7 @@ Click on the links to access the corresponding day's repository.
 |----|----|---------------------------------------------|--------------------------|  
 | 41 | 16 May | Java Threads - Advanced usage | [Day-41](https://github.com/FW-Zalando-Java-Backend-Engineer/Java-Threads-Advanced-usage) |  
 | 42 | 26 May | Reading/Writing Streams of Bytes, Strings | [Day-42](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-42_Java_IO) |  
-| 43 | 27 May | Reflections and Annotations in Java | [Day-43](https://github.com/your-github-username/Day-43_Byte_Streams) |  
+| 43 | 27 May | Reflections and Annotations in Java | [Day-43](https://github.com/FW-Zalando-Java-Backend-Engineer/Day43_Reflections-and-Annotations-in-Java) |  
 | 44 | 28 May | Soft Skills | [Day-44](_No Repo Provided_) |  
 | 45 | 30 May | Enums in Java, LocalDate, LocalDateTime, ZonedDateTime | [Day-45](https://github.com/your-github-username/Day-45_Reflections_Annotations) |  
 
