@@ -120,7 +120,7 @@ Click on the links to access the corresponding day's repository.
 | 42 | 26 May | Reading/Writing Streams of Bytes, Strings | [Day-42](https://github.com/FW-Zalando-Java-Backend-Engineer/Day-42_Java_IO) |  
 | 43 | 27 May | Reflections and Annotations in Java | [Day-43](https://github.com/FW-Zalando-Java-Backend-Engineer/Day43_Reflections-and-Annotations-in-Java) |  
 | 44 | 28 May | Soft Skills | [Day-44](_No Repo Provided_) |  
-| 45 | 30 May | Enums in Java, LocalDate, LocalDateTime, ZonedDateTime | [Day-45](https://github.com/your-github-username/Day-45_Reflections_Annotations) |  
+| 45 | 30 May | Revision | [Day-45](https://github.com/your-github-username/Day-45_Reflections_Annotations) |  
 
 ---
 
@@ -138,7 +138,7 @@ Click on the links to access the corresponding day's repository.
 ### 📖 Week 11  
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
-| 51 | 10 Jun | Mini-Project 2 | [Day-51](https://github.com/your-github-username/Day-51_Mini_Project_2) |  
+| 51 | 10 Jun | Enums in Java, LocalDate, LocalDateTime, ZonedDateTime | [Day-51](https://github.com/your-github-username/Day-51_Mini_Project_2) |  
 | 52 | 11 Jun | Soft Skills | [Day-52](_No Repo Provided_) |  
 | 53 | 12 Jun | Lambdas, Functional Interfaces, Method References | [Day-53](https://github.com/your-github-username/Day-53_Lambdas_Functional_Interfaces) |  
 | 54 | 13 Jun | Stream API: Intermediate & Terminal Operations | [Day-54](https://github.com/your-github-username/Day-54_Stream_API) |  
