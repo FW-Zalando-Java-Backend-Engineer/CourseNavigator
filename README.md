@@ -127,11 +127,11 @@ Click on the links to access the corresponding day's repository.
 ### 📖 Week 10  
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
-| 46 | 2 Jun | Mini-Project 1 | [Day-46](https://github.com/your-github-username/Day-46_Enums_LocalDate) |  
+| 46 | 2 Jun | Mini-Project 1 | [Day-46](https://github.com/your-github-username/Day-47_Mini_Project_1) |  
 | 47 | 3 Jun | Mini-Project 1 | [Day-47](https://github.com/your-github-username/Day-47_Mini_Project_1) |  
 | 48 | 4 Jun | Soft Skills | [Day-48](_No Repo Provided_) |  
-| 49 | 5 Jun | Synchronization: Mutex, Monitor, Atomic Types | [Day-49](https://github.com/your-github-username/Day-49_Synchronization) |  
-| 50 | 6 Jun | Java Util Concurrent & Concurrent Collections | [Day-50](https://github.com/your-github-username/Day-50_Concurrent_Collections) |  
+| 49 | 5 Jun | Mini-Project 1 | [Day-49](https://github.com/your-github-username/Day-47_Mini_Project_1) |  
+| 50 | 6 Jun | Mini-Project 1 | [Day-50](https://github.com/your-github-username/Day-47_Mini_Project_1) |  
 
 ---
 
