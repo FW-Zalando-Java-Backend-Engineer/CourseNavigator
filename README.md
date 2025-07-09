@@ -175,15 +175,15 @@ Click on the links to access the corresponding day's repository.
 | 67 | 2 Jul | Introduction to NoSQL Databases: MongoDB | [Day-67](https://github.com/your-github-username/Day-67_Intro_NoSQL) |  
 | 68 | 3 Jul | Adding and Selecting Data from MongoDB | [Day-68](https://github.com/your-github-username/Day-68_MongoDB_Data) |  
 | 69 | 4 Jul | MongoDB Advanced Queries | [Day-69](https://github.com/your-github-username/Day-69_MongoDB_Advanced) |  
-| 70 | 7 Jul | ACID Principles and CAP Theorem | [Day-70](https://github.com/your-github-username/Day-70_ACID_CAP) |  
+| 70 | 7 Jul | ACID Principles | [Day-70](https://github.com/your-github-username/Day-70_ACID_CAP) |  
 
 ---
 
 ### 📖 Week 15  
 | Day | Date | Topic | Repository |  
 |----|----|---------------------------------------------|--------------------------|  
-| 71 | 8 Jul | Introduction to the Internet: OSI/ISO Model & Protocol Stack | [Day-71](https://github.com/your-github-username/Day-71_OSI_Model) |  
-| 72 | 9 Jul | HTTP Protocol: Structure, Features, and Tools | [Day-72](https://github.com/your-github-username/Day-72_HTTP_Protocol) |  
+| 71 | 8 Jul | CAP Theorem | [Day-71](https://github.com/your-github-username/Day-71_OSI_Model) |  
+| 72 | 9 Jul | MongoDB Integration with Spring Boot | [Day-72](https://github.com/your-github-username/Day-72_HTTP_Protocol) |  
 | 73 | 10 Jul | REST API: Definition and Main Principles | [Day-73](https://github.com/your-github-username/Day-73_REST_API_Principles) |  
 | 74 | 11 Jul | REST API Implementation | [Day-74](https://github.com/your-github-username/Day-74_REST_API_Implementation) |  
 | 75 | 14 Jul | Version Control Systems: GitHub and Working with Repositories | [Day-75](https://github.com/your-github-username/Day-75_GitHub_Repositories) |  
