@@ -4,7 +4,7 @@
 📍 **Mode:** In-Person / Online  
 📖 **Focus Areas:** Java Programming, Object-Oriented Programming, Data Structures & Algorithms, Web Development, DevOps, Agile Methodologies  
 🔗 **GitHub Repositories:** Each day's materials are available in separate repositories  
-
+📹 [Zoom Recordings Catalogue](https://github.com/FW-Zalando-Java-Backend-Engineer/java-backend-zoom-recordings)
 ---
 
 ## 📌 Course Overview
