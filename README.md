@@ -5,6 +5,7 @@
 📖 **Focus Areas:** Java Programming, Object-Oriented Programming, Data Structures & Algorithms, Web Development, DevOps, Agile Methodologies  
 🔗 **GitHub Repositories:** Each day's materials are available in separate repositories  
 📹 [Zoom Recordings Catalogue](https://github.com/FW-Zalando-Java-Backend-Engineer/java-backend-zoom-recordings)
+
 ---
 
 ## 📌 Course Overview
@@ -186,7 +187,7 @@ Click on the links to access the corresponding day's repository.
 | 72 | 9 Jul | MongoDB Integration with Spring Boot | [Day-72](https://github.com/your-github-username/Day-72_HTTP_Protocol) |  
 | 73 | 10 Jul | REST API: Definition and Main Principles | [Day-73](https://github.com/your-github-username/Day-73_REST_API_Principles) |  
 | 74 | 11 Jul | REST API Implementation | [Day-74](https://github.com/your-github-username/Day-74_REST_API_Implementation) |  
-| 75 | 14 Jul | Version Control Systems: GitHub and Working with Repositories | [Day-75](https://github.com/your-github-username/Day-75_GitHub_Repositories) |  
+| 75 | 14 Jul | REST API Implementation | [Day-75](https://github.com/your-github-username/Day-75_GitHub_Repositories) |  
 
 ---
 
